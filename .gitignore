@@ -1,0 +1,6 @@
+preferences.md
+output/
+project.json
+.env
+.env.*
+__pycache__/
